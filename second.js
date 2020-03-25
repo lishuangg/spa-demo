@@ -5,7 +5,9 @@ $(function(){
     title: {
       text: 'JavaScript语言排名变化'
     },
-    tooltip: {},
+    tooltip: {
+      trigger:'axis'
+    },
     xAxis: {
       data: ['2000','2005','2010','2015','2020']
     },
