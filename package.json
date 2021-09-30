@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "frist.js",
   "dependencies": {
-    "handsontable": "^7.4.2"
+    "handsontable": "^10.0.0"
   },
   "devDependencies": {
     "grunt": "^1.1.0",
